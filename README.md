@@ -28,3 +28,9 @@ German Credit Risk dataset (financial risk classification).
 
 ## Why This Matters
 Model monitoring and maintenance are critical in real production ML systems. This project focuses on reliability after deployment, not just model accuracy.
+
+---
+
+## Key Takeaway
+
+Model development does not end at deployment. Monitoring, drift detection, and adaptive retraining are critical to maintaining long-term reliability in real-world ML systems.
